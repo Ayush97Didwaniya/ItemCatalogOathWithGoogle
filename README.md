@@ -5,7 +5,7 @@ This project provides a list of items within a variety of categories as well as 
 * Go to [console.developers.google.com](https://console.developers.google.com)
 * create a project
 * set the OAth consent screen details
-* set Authorized JavaScript origins to [http://localhost:8000]http://localhost:8000
+* set Authorized JavaScript origins to http://localhost:8000
 * save and Download Json file
 * rename it with client_secret.json and put it into catalog folder(after clone the project)
 
